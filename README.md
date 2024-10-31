@@ -1,4 +1,4 @@
-
+![logo](https://github.com/FabihaAhmad/FabihaAhmad/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Fabiha Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
