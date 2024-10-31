@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **HTML,CSS,C++**
 
-- ⚡ Fun fact **Passionate about my Goals**
+- ⚡ Fun fact **Little bit Silly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
